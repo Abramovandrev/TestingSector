@@ -1,1 +1,1 @@
-Project management and issue tracking for Testing Sector.
+Issue tracking for Testing Sector.
